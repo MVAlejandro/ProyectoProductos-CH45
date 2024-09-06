@@ -1,2 +1,7 @@
-# ProyectoProductos-CH45
-Entrega de ejercicio con Javascript para vincular una api a un sitio web.
+# Proyecto Productos
+
+Entrega de ejercicio con Javascripr para vincular una api a un sitio web.
+
+---
+
+> AMV
